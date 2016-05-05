@@ -2,6 +2,7 @@ name: univers
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 1
+title: Univers
 cta:
   domain: null
   bucket: null
