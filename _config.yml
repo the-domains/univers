@@ -1,7 +1,7 @@
 name: univers
 favicon: null
 layout_spectrum: 0.511775110848248
-typography_spectrum: 0.11958466866053641
+typography_spectrum: 0.08848
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.2246329125482589
+  brandStrength: 0.25
   lightness: 0.01505795051343739
   saturation: 0.3261503945104778
   rhythmicContrast: 0.33281760197132826
