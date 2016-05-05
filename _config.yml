@@ -1,7 +1,7 @@
 name: univers
 favicon: null
-layout_spectrum: 0.511775110848248
-typography_spectrum: 0.08848
+layout_spectrum: 0
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
